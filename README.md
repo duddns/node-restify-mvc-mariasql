@@ -1,5 +1,7 @@
-# Node.js + restify + MVC + MariaDB #
+## Node.js + restify + MVC + MariaDB base structure ##
 
+
+### Requirements ###
 [node-restify](http://mcavage.me/node-restify/)
 
 [bunyan](https://github.com/trentm/node-bunyan)
