@@ -1,4 +1,4 @@
-## Node.js + restify + MVC + MariaDB base structure ##
+## Node.js + restify + MariaDB + MVC structure ##
 
 
 ### Requirements ###
