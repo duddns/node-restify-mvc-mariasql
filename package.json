@@ -1,0 +1,17 @@
+{
+  "name": "node_restify",
+  "version": "0.1.0",
+  "description": "node restify",
+  "main": "app.js",
+  "directories": {},
+  "dependencies": {
+    "bunyan": "^0.22.1",
+    "mariasql": "^0.1.20",
+    "restify": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {},
+  "author": "Cho, Young-Un",
+  "license": ""
+}
