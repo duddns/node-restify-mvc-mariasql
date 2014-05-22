@@ -1,10 +1,8 @@
-install node.js
+# Node.js + restify + MVC + MariaDB #
 
-node-restify (http://mcavage.me/node-restify/)
-npm install restify
+[node-restify](http://mcavage.me/node-restify/)
 
-node-mariasql (https://github.com/mscdex/node-mariasql)
-npm install mariasql
+[bunyan](https://github.com/trentm/node-bunyan)
 
-bunyan (https://github.com/trentm/node-bunyan)
-npm install bunyan
+[node-mariasql](https://github.com/mscdex/node-mariasql)
+
